@@ -1,0 +1,8 @@
+react
+
+express quando não encontrar uma rota, abra o arquivio build do react
+
+
+Express Conversando com React (Aula 38)
+    Express conseguir acessar os arquivos
+    
