@@ -1,3 +1,5 @@
+Olá. sou Giovani Todeschini Piuco, nascido em Bento Gonçalves, formado em Análise e Desenvolvimento de Sistemas
+
 criamos o package.json
 
 criamos o main
